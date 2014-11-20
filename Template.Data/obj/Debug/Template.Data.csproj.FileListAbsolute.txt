@@ -1,0 +1,53 @@
+C:\Projetos\Samples\Template\Template.Data\obj\Debug\Template.Data.csprojResolveAssemblyReference.cache
+C:\Projetos\Samples\Template\Template.Data\bin\Debug\Template.Data.dll.config
+C:\Projetos\Samples\Template\Template.Data\bin\Debug\Template.Data.dll
+C:\Projetos\Samples\Template\Template.Data\bin\Debug\Template.Data.pdb
+C:\Projetos\Samples\Template\Template.Data\bin\Debug\EntityFramework.dll
+C:\Projetos\Samples\Template\Template.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Projetos\Samples\Template\Template.Data\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Projetos\Samples\Template\Template.Data\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Projetos\Samples\Template\Template.Data\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Projetos\Samples\Template\Template.Data\bin\Debug\Template.Core.dll
+C:\Projetos\Samples\Template\Template.Data\bin\Debug\Template.Core.pdb
+C:\Projetos\Samples\Template\Template.Data\bin\Debug\EntityFramework.xml
+C:\Projetos\Samples\Template\Template.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Projetos\Samples\Template\Template.Data\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Projetos\Samples\Template\Template.Data\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Projetos\Samples\Template\Template.Data\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Projetos\Samples\Template\Template.Data\obj\Debug\Template.Data.dll
+C:\Projetos\Samples\Template\Template.Data\obj\Debug\Template.Data.pdb
+C:\Projetos\Samples\Template - Cópia\Template.Data\obj\Debug\Template.Data.csprojResolveAssemblyReference.cache
+C:\Projetos\Samples\Template - Cópia\Template.Data\obj\Debug\Template.Data.dll
+C:\Projetos\Samples\Template - Cópia\Template.Data\bin\Debug\Template.Data.dll.config
+C:\Projetos\Samples\Template - Cópia\Template.Data\bin\Debug\Template.Data.dll
+C:\Projetos\Samples\Template - Cópia\Template.Data\bin\Debug\Template.Data.pdb
+C:\Projetos\Samples\Template - Cópia\Template.Data\bin\Debug\EntityFramework.dll
+C:\Projetos\Samples\Template - Cópia\Template.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Projetos\Samples\Template - Cópia\Template.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Projetos\Samples\Template - Cópia\Template.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Projetos\Samples\Template - Cópia\Template.Data\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Projetos\Samples\Template - Cópia\Template.Data\bin\Debug\Microsoft.Owin.dll
+C:\Projetos\Samples\Template - Cópia\Template.Data\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Projetos\Samples\Template - Cópia\Template.Data\bin\Debug\Microsoft.Owin.Security.dll
+C:\Projetos\Samples\Template - Cópia\Template.Data\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+C:\Projetos\Samples\Template - Cópia\Template.Data\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Projetos\Samples\Template - Cópia\Template.Data\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Projetos\Samples\Template - Cópia\Template.Data\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Projetos\Samples\Template - Cópia\Template.Data\bin\Debug\Newtonsoft.Json.dll
+C:\Projetos\Samples\Template - Cópia\Template.Data\bin\Debug\Owin.dll
+C:\Projetos\Samples\Template - Cópia\Template.Data\bin\Debug\Template.Core.dll
+C:\Projetos\Samples\Template - Cópia\Template.Data\bin\Debug\Template.Core.pdb
+C:\Projetos\Samples\Template - Cópia\Template.Data\bin\Debug\EntityFramework.xml
+C:\Projetos\Samples\Template - Cópia\Template.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Projetos\Samples\Template - Cópia\Template.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Projetos\Samples\Template - Cópia\Template.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Projetos\Samples\Template - Cópia\Template.Data\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Projetos\Samples\Template - Cópia\Template.Data\bin\Debug\Microsoft.Owin.xml
+C:\Projetos\Samples\Template - Cópia\Template.Data\bin\Debug\Microsoft.Owin.Security.xml
+C:\Projetos\Samples\Template - Cópia\Template.Data\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Projetos\Samples\Template - Cópia\Template.Data\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+C:\Projetos\Samples\Template - Cópia\Template.Data\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Projetos\Samples\Template - Cópia\Template.Data\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Projetos\Samples\Template - Cópia\Template.Data\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Projetos\Samples\Template - Cópia\Template.Data\bin\Debug\Newtonsoft.Json.xml
+C:\Projetos\Samples\Template - Cópia\Template.Data\obj\Debug\Template.Data.pdb

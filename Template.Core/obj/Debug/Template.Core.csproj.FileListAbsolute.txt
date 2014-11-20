@@ -1,0 +1,31 @@
+C:\Projetos\Samples\Template\Template.Core\bin\Debug\Template.Core.dll.config
+C:\Projetos\Samples\Template\Template.Core\bin\Debug\Template.Core.dll
+C:\Projetos\Samples\Template\Template.Core\bin\Debug\Template.Core.pdb
+C:\Projetos\Samples\Template\Template.Core\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Projetos\Samples\Template\Template.Core\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Projetos\Samples\Template\Template.Core\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Projetos\Samples\Template\Template.Core\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Projetos\Samples\Template\Template.Core\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Projetos\Samples\Template\Template.Core\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Projetos\Samples\Template\Template.Core\obj\Debug\Template.Core.dll
+C:\Projetos\Samples\Template\Template.Core\obj\Debug\Template.Core.pdb
+C:\Projetos\Samples\Template - Cópia\Template.Core\bin\Debug\Template.Core.dll.config
+C:\Projetos\Samples\Template - Cópia\Template.Core\bin\Debug\Template.Core.dll
+C:\Projetos\Samples\Template - Cópia\Template.Core\bin\Debug\Template.Core.pdb
+C:\Projetos\Samples\Template - Cópia\Template.Core\bin\Debug\EntityFramework.dll
+C:\Projetos\Samples\Template - Cópia\Template.Core\bin\Debug\EntityFramework.SqlServer.dll
+C:\Projetos\Samples\Template - Cópia\Template.Core\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Projetos\Samples\Template - Cópia\Template.Core\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Projetos\Samples\Template - Cópia\Template.Core\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Projetos\Samples\Template - Cópia\Template.Core\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Projetos\Samples\Template - Cópia\Template.Core\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Projetos\Samples\Template - Cópia\Template.Core\bin\Debug\EntityFramework.xml
+C:\Projetos\Samples\Template - Cópia\Template.Core\bin\Debug\EntityFramework.SqlServer.xml
+C:\Projetos\Samples\Template - Cópia\Template.Core\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Projetos\Samples\Template - Cópia\Template.Core\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Projetos\Samples\Template - Cópia\Template.Core\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Projetos\Samples\Template - Cópia\Template.Core\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Projetos\Samples\Template - Cópia\Template.Core\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Projetos\Samples\Template - Cópia\Template.Core\obj\Debug\Template.Core.csprojResolveAssemblyReference.cache
+C:\Projetos\Samples\Template - Cópia\Template.Core\obj\Debug\Template.Core.dll
+C:\Projetos\Samples\Template - Cópia\Template.Core\obj\Debug\Template.Core.pdb

@@ -1,0 +1,26 @@
+C:\Projetos\Samples\Template\Template.Web.Core\bin\Debug\Template.Web.Core.dll.config
+C:\Projetos\Samples\Template\Template.Web.Core\bin\Debug\Template.Web.Core.dll
+C:\Projetos\Samples\Template\Template.Web.Core\bin\Debug\Template.Web.Core.pdb
+C:\Projetos\Samples\Template\Template.Web.Core\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Projetos\Samples\Template\Template.Web.Core\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Projetos\Samples\Template\Template.Web.Core\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Projetos\Samples\Template\Template.Web.Core\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Projetos\Samples\Template\Template.Web.Core\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Projetos\Samples\Template\Template.Web.Core\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Projetos\Samples\Template\Template.Web.Core\obj\Debug\Template.Web.Core.csprojResolveAssemblyReference.cache
+C:\Projetos\Samples\Template\Template.Web.Core\obj\Debug\Template.Web.Core.dll
+C:\Projetos\Samples\Template\Template.Web.Core\obj\Debug\Template.Web.Core.pdb
+C:\Projetos\Samples\Template - Cópia\Template.Web.Core\bin\Debug\Template.Web.Core.dll.config
+C:\Projetos\Samples\Template - Cópia\Template.Web.Core\bin\Debug\Template.Web.Core.dll
+C:\Projetos\Samples\Template - Cópia\Template.Web.Core\bin\Debug\Template.Web.Core.pdb
+C:\Projetos\Samples\Template - Cópia\Template.Web.Core\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Projetos\Samples\Template - Cópia\Template.Web.Core\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Projetos\Samples\Template - Cópia\Template.Web.Core\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Projetos\Samples\Template - Cópia\Template.Web.Core\bin\Debug\Template.Core.dll
+C:\Projetos\Samples\Template - Cópia\Template.Web.Core\bin\Debug\Template.Core.pdb
+C:\Projetos\Samples\Template - Cópia\Template.Web.Core\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Projetos\Samples\Template - Cópia\Template.Web.Core\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Projetos\Samples\Template - Cópia\Template.Web.Core\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Projetos\Samples\Template - Cópia\Template.Web.Core\obj\Debug\Template.Web.Core.csprojResolveAssemblyReference.cache
+C:\Projetos\Samples\Template - Cópia\Template.Web.Core\obj\Debug\Template.Web.Core.dll
+C:\Projetos\Samples\Template - Cópia\Template.Web.Core\obj\Debug\Template.Web.Core.pdb
